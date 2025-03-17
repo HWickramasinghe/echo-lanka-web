@@ -1,0 +1,29 @@
+This is an e-commerce project (it named by echo-lanka)when i tried to practice php.
+I also use html,css,javascript,boostrap and php.
+recourses- youtube
+The admin username and password
+	username-hashi
+	passoword-hashi1234
+this system can
+	-admin
+		*login(pre-defined username and password, cannot register admins) 
+		*add products and can do changes in product and remove products
+		*can see who are the interacted users with the system
+		*can remove users
+
+	-users
+		*signup and login
+		*search items
+		*add to cart
+		*check prices
+		*remove items from cart
+
+these are the functional requirements when i added to this system.
+exported database included in database folder.
+
+Hashini Wickramasinghe (D/BIT/22/0026)
+
+
+
+
+		
