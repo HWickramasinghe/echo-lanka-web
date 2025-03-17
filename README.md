@@ -1,5 +1,5 @@
 # echo-lanka-web
-That was a simple e-commerce application create by using php and mysql
+That was a simple e-commerce application created using php and mysql
 
 1.	Introduction
 Echo-Lanka: Revolutionizing E-Grocery Shopping
